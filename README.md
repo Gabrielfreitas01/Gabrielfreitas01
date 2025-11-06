@@ -4,7 +4,7 @@
 Tenho grande interesse nas áreas de Desenvolvimento Back-end, Gerenciamento de Dados, Inteligência Artificial e Cibersegurança.
 
 👨‍🎓 Formação:
-Sou estudante de Sistemas da Informação pela UNINASSAU (4º período).
+Sou estudante de Sistemas da Informação pela UNINASSAU (6º período).
 
 👨🏽‍💻 Conhecimentos técnicos:
 Possuo experiência com Java, JavaScript, HTML, CSS, Python e Kotlin.
