@@ -1,13 +1,13 @@
 👋🏽 Olá! Eu sou Gabriel Freitas
 
 🖥️ Interesses atuais:
-Tenho grande interesse nas áreas de Desenvolvimento Back-end, Gerenciamento de Dados, Inteligência Artificial e Cibersegurança.
+Tenho grande interesse nas áreas de Desenvolvimento Back-end, Inteligência Artificial e Cibersegurança.
 
 👨‍🎓 Formação:
-Sou estudante de Sistemas da Informação pela UNINASSAU (6º período).
+Sou estudante de Sistemas da Informação pela UNINASSAU (7º período).
 
 👨🏽‍💻 Conhecimentos técnicos:
-Possuo experiência com Java, JavaScript, HTML, CSS, Python e Kotlin.
+Possuo experiência com Java, JavaScript, Node.js e Python.
 Atualmente, busco aprimorar minhas habilidades em desenvolvimento back-end e explorar aplicações práticas de IA e segurança da informação.
 
 🚀 Objetivo:
