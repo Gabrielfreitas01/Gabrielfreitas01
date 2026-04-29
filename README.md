@@ -1,4 +1,4 @@
-👋🏽 Olá! Eu sou Gabriel Freitas
+👋🏽 Olá! Eu sou Gabriel Bahé
 
 🖥️ Interesses atuais:
 Tenho grande interesse nas áreas de Engenharia de software, Inteligência Artificial e Cibersegurança.
